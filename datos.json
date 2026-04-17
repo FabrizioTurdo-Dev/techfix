@@ -1,0 +1,674 @@
+{
+    "modulos": {
+        "samsung": [
+            {
+                "modelo": "A01-M",
+                "tipo": "ORIGINAL",
+                "marco": false,
+                "precio": 15000
+            },
+            {
+                "modelo": "A01-CORE",
+                "tipo": "ORIGINAL",
+                "marco": false,
+                "precio": 15000
+            },
+            {
+                "modelo": "A02",
+                "tipo": "ORIGINAL",
+                "precio": 16000
+            },
+            {
+                "modelo": "A12",
+                "tipo": "ORIGINAL",
+                "precio": 16000
+            },
+            {
+                "modelo": "M12",
+                "tipo": "ORIGINAL",
+                "precio": 16000
+            },
+            {
+                "modelo": "A325G",
+                "tipo": "ORIGINAL",
+                "precio": 16000
+            },
+            {
+                "modelo": "A02S",
+                "tipo": "ORIGINAL",
+                "precio": 16000
+            },
+            {
+                "modelo": "A03",
+                "tipo": "ORIGINAL",
+                "precio": 16000
+            },
+            {
+                "modelo": "A03S",
+                "tipo": "ORIGINAL",
+                "precio": 16000
+            },
+            {
+                "modelo": "A04E",
+                "tipo": "ORIGINAL",
+                "precio": 16000
+            },
+            {
+                "modelo": "A04",
+                "tipo": "ORIGINAL",
+                "precio": 16000
+            },
+            {
+                "modelo": "A04S",
+                "tipo": "ORIGINAL",
+                "precio": 17000
+            },
+            {
+                "modelo": "A05",
+                "tipo": "ORIGINAL",
+                "precio": 16500
+            },
+            {
+                "modelo": "A05S",
+                "tipo": "ORIGINAL",
+                "precio": 19000
+            },
+            {
+                "modelo": "A06",
+                "tipo": "ORIGINAL",
+                "precio": 17000
+            },
+            {
+                "modelo": "A07",
+                "tipo": "ORIGINAL",
+                "precio": 21000
+            },
+            {
+                "modelo": "A10",
+                "tipo": "ORIGINAL",
+                "precio": 16000
+            },
+            {
+                "modelo": "A10S",
+                "tipo": "ORIGINAL",
+                "precio": 16000
+            },
+            {
+                "modelo": "A11",
+                "tipo": "ORIGINAL",
+                "precio": 17000
+            },
+            {
+                "modelo": "A13",
+                "tipo": "ORIGINAL",
+                "precio": 17500
+            },
+            {
+                "modelo": "A23",
+                "tipo": "ORIGINAL",
+                "precio": 17500
+            },
+            {
+                "modelo": "M13",
+                "tipo": "ORIGINAL",
+                "precio": 17500
+            },
+            {
+                "modelo": "M23",
+                "tipo": "ORIGINAL",
+                "precio": 17500
+            },
+            {
+                "modelo": "M33",
+                "tipo": "ORIGINAL",
+                "precio": 17500
+            },
+            {
+                "modelo": "A14",
+                "tipo": "ORIGINAL",
+                "precio": 17500
+            },
+            {
+                "modelo": "A146B",
+                "tipo": "ORIGINAL",
+                "precio": 17500
+            },
+            {
+                "modelo": "A15",
+                "tipo": "INCELL",
+                "marco": true,
+                "precio": 27000
+            },
+            {
+                "modelo": "A15",
+                "tipo": "OLED",
+                "marco": true,
+                "precio": 55000
+            },
+            {
+                "modelo": "A16",
+                "tipo": "INCELL",
+                "marco": true,
+                "precio": 27000
+            },
+            {
+                "modelo": "A16",
+                "tipo": "ORIGINAL",
+                "marco": true,
+                "precio": 68000
+            },
+            {
+                "modelo": "A17",
+                "tipo": "OLED",
+                "precio": 68500
+            },
+            {
+                "modelo": "A20",
+                "tipo": "INCELL",
+                "precio": 22000
+            },
+            {
+                "modelo": "A20",
+                "tipo": "OLED",
+                "precio": 41500
+            },
+            {
+                "modelo": "A20S",
+                "tipo": "ORIGINAL",
+                "precio": 17500
+            },
+            {
+                "modelo": "A21S",
+                "tipo": "ORIGINAL",
+                "precio": 17000
+            },
+            {
+                "modelo": "A22-4G",
+                "tipo": "INCELL",
+                "precio": 24500
+            },
+            {
+                "modelo": "A22-4G",
+                "tipo": "OLED",
+                "precio": 42500
+            },
+            {
+                "modelo": "A22-5G",
+                "tipo": "ORIGINAL",
+                "precio": 17000
+            },
+            {
+                "modelo": "A24",
+                "tipo": "OLED",
+                "precio": 49500
+            },
+            {
+                "modelo": "A25",
+                "tipo": "INCELL",
+                "precio": 26500
+            },
+            {
+                "modelo": "A25",
+                "tipo": "OLED",
+                "precio": 54500
+            },
+            {
+                "modelo": "A26",
+                "tipo": "INCELL",
+                "precio": 32000
+            },
+            {
+                "modelo": "A26",
+                "tipo": "OLED",
+                "precio": 68000
+            },
+            {
+                "modelo": "A30",
+                "tipo": "OLED",
+                "precio": 38500
+            },
+            {
+                "modelo": "A30S",
+                "tipo": "INCELL",
+                "precio": 22000
+            },
+            {
+                "modelo": "A30S",
+                "tipo": "OLED",
+                "precio": 40000
+            },
+            {
+                "modelo": "A31",
+                "tipo": "INCELL",
+                "precio": 24500
+            },
+            {
+                "modelo": "A31",
+                "tipo": "OLED",
+                "precio": 42000
+            },
+            {
+                "modelo": "A32",
+                "tipo": "INCELL",
+                "precio": 25500
+            },
+            {
+                "modelo": "A32",
+                "tipo": "OLED",
+                "precio": 43500
+            },
+            {
+                "modelo": "A33",
+                "tipo": "INCELL",
+                "precio": 29500
+            },
+            {
+                "modelo": "A33",
+                "tipo": "OLED",
+                "precio": 49500
+            },
+            {
+                "modelo": "A34-5G",
+                "tipo": "INCELL",
+                "precio": 29000
+            },
+            {
+                "modelo": "A34-5G",
+                "tipo": "OLED",
+                "precio": 57000
+            },
+            {
+                "modelo": "A35-5G",
+                "tipo": "OLED",
+                "precio": 55000
+            },
+            {
+                "modelo": "A36-5G",
+                "tipo": "INCELL",
+                "precio": 34500
+            },
+            {
+                "modelo": "A36-5G",
+                "tipo": "OLED",
+                "precio": 58000
+            },
+            {
+                "modelo": "A51",
+                "tipo": "INCELL",
+                "precio": 26000
+            },
+            {
+                "modelo": "A51",
+                "tipo": "OLED",
+                "precio": 45500
+            },
+            {
+                "modelo": "A52",
+                "tipo": "INCELL",
+                "precio": 27000
+            },
+            {
+                "modelo": "A52",
+                "tipo": "OLED",
+                "precio": 47500
+            },
+            {
+                "modelo": "A53-5G",
+                "tipo": "INCELL",
+                "precio": 29500
+            },
+            {
+                "modelo": "A53-5G",
+                "tipo": "OLED",
+                "precio": 48000
+            },
+            {
+                "modelo": "A54-5G",
+                "tipo": "INCELL",
+                "precio": 30000
+            },
+            {
+                "modelo": "A54-5G",
+                "tipo": "OLED",
+                "precio": 53500
+            },
+            {
+                "modelo": "A55-5G",
+                "tipo": "INCELL",
+                "precio": 35500
+            },
+            {
+                "modelo": "A55-5G",
+                "tipo": "OLED",
+                "precio": 59000
+            },
+            {
+                "modelo": "A56-5G",
+                "tipo": "INCELL",
+                "precio": 39000
+            },
+            {
+                "modelo": "A56-5G",
+                "tipo": "OLED",
+                "precio": 62000
+            },
+            {
+                "modelo": "S20-FE",
+                "tipo": "OLED",
+                "precio": 55000
+            },
+            {
+                "modelo": "S21-FE",
+                "tipo": "OLED",
+                "precio": 63000
+            },
+            {
+                "modelo": "S23-ULTRA",
+                "tipo": "OLED",
+                "precio": 140000
+            },
+            {
+                "modelo": "S24+",
+                "tipo": "OLED",
+                "precio": 130000
+            }
+        ],
+        "iphone": [
+            {
+                "modelo": "6",
+                "tipo": "INCELL",
+                "precio": 12000
+            },
+            {
+                "modelo": "6S",
+                "tipo": "INCELL",
+                "precio": 12000
+            },
+            {
+                "modelo": "6 PLUS",
+                "tipo": "INCELL",
+                "precio": 14000
+            },
+            {
+                "modelo": "6S PLUS",
+                "tipo": "INCELL",
+                "precio": 16000
+            },
+            {
+                "modelo": "7",
+                "tipo": "INCELL",
+                "precio": 19500
+            },
+            {
+                "modelo": "7 PLUS",
+                "tipo": "INCELL",
+                "precio": 17500
+            },
+            {
+                "modelo": "8",
+                "tipo": "INCELL",
+                "precio": 16500
+            },
+            {
+                "modelo": "8 PLUS",
+                "tipo": "INCELL",
+                "precio": 18500
+            },
+            {
+                "modelo": "X",
+                "tipo": "INCELL",
+                "precio": 32000
+            },
+            {
+                "modelo": "XS",
+                "tipo": "INCELL",
+                "precio": 29500
+            },
+            {
+                "modelo": "XS MAX",
+                "tipo": "INCELL",
+                "precio": 36500
+            },
+            {
+                "modelo": "XS MAX",
+                "tipo": "OLED",
+                "precio": 58000
+            },
+            {
+                "modelo": "XR",
+                "tipo": "INCELL",
+                "precio": 34000
+            },
+            {
+                "modelo": "11",
+                "tipo": "INCELL",
+                "precio": 31500
+            },
+            {
+                "modelo": "11 PRO",
+                "tipo": "INCELL",
+                "precio": 32500
+            },
+            {
+                "modelo": "11 PRO MAX",
+                "tipo": "INCELL",
+                "precio": 39000
+            },
+            {
+                "modelo": "11 PRO MAX",
+                "tipo": "OLED",
+                "precio": 60000
+            },
+            {
+                "modelo": "12",
+                "tipo": "INCELL",
+                "precio": 37500
+            },
+            {
+                "modelo": "12 PRO MAX",
+                "tipo": "INCELL",
+                "precio": 52000
+            },
+            {
+                "modelo": "12 PRO MAX",
+                "tipo": "OLED",
+                "precio": 83000
+            },
+            {
+                "modelo": "13",
+                "tipo": "INCELL",
+                "precio": 42000
+            },
+            {
+                "modelo": "13",
+                "tipo": "OLED",
+                "precio": 73000
+            },
+            {
+                "modelo": "13 PRO",
+                "tipo": "INCELL",
+                "precio": 46000
+            },
+            {
+                "modelo": "13 PRO MAX",
+                "tipo": "INCELL",
+                "precio": 50000
+            },
+            {
+                "modelo": "13 PRO MAX",
+                "tipo": "OLED",
+                "precio": 78000
+            },
+            {
+                "modelo": "14",
+                "tipo": "INCELL",
+                "precio": 53000
+            },
+            {
+                "modelo": "14 PRO",
+                "tipo": "INCELL",
+                "precio": 60000
+            },
+            {
+                "modelo": "14 PRO MAX",
+                "tipo": "INCELL",
+                "precio": 75000
+            },
+            {
+                "modelo": "15",
+                "tipo": "INCELL",
+                "precio": 48000
+            },
+            {
+                "modelo": "15",
+                "tipo": "OLED",
+                "precio": 90000
+            },
+            {
+                "modelo": "16",
+                "tipo": "INCELL",
+                "precio": 69000
+            },
+            {
+                "modelo": "16 PRO",
+                "tipo": "INCELL",
+                "precio": 99000
+            },
+            {
+                "modelo": "16 PRO MAX",
+                "tipo": "INCELL",
+                "precio": 148000
+            }
+        ]
+    },
+    "baterias": {
+        "samsung": [
+            {
+                "modelo": "J5 2016",
+                "precio": 8500
+            },
+            {
+                "modelo": "J7 2016",
+                "precio": 8500
+            },
+            {
+                "modelo": "J7 NEO",
+                "precio": 8500
+            },
+            {
+                "modelo": "A01-M",
+                "precio": 7500
+            },
+            {
+                "modelo": "A01 CORE",
+                "precio": 7500
+            },
+            {
+                "modelo": "A02",
+                "precio": 9500
+            },
+            {
+                "modelo": "A03",
+                "precio": 9500
+            },
+            {
+                "modelo": "A04",
+                "precio": 9500
+            },
+            {
+                "modelo": "A06",
+                "precio": 11000
+            },
+            {
+                "modelo": "A10",
+                "precio": 9000
+            },
+            {
+                "modelo": "A20",
+                "precio": 9500
+            },
+            {
+                "modelo": "A22",
+                "precio": 11000
+            },
+            {
+                "modelo": "A51",
+                "precio": 11000
+            },
+            {
+                "modelo": "A52",
+                "precio": 11000
+            },
+            {
+                "modelo": "A53",
+                "precio": 11000
+            }
+        ],
+        "iphone": [
+            {
+                "modelo": "6",
+                "precio": 7000
+            },
+            {
+                "modelo": "6S",
+                "precio": 8500
+            },
+            {
+                "modelo": "6 PLUS",
+                "precio": 9000
+            },
+            {
+                "modelo": "6S PLUS",
+                "precio": 10000
+            },
+            {
+                "modelo": "7",
+                "precio": 10000
+            },
+            {
+                "modelo": "8",
+                "precio": 10000
+            },
+            {
+                "modelo": "X",
+                "precio": 9000
+            },
+            {
+                "modelo": "XR",
+                "precio": 10000
+            },
+            {
+                "modelo": "XS",
+                "precio": 10500
+            },
+            {
+                "modelo": "XS MAX",
+                "precio": 11000
+            },
+            {
+                "modelo": "11",
+                "precio": 10000
+            },
+            {
+                "modelo": "11 PRO",
+                "precio": 14000
+            },
+            {
+                "modelo": "12",
+                "precio": 10500
+            },
+            {
+                "modelo": "13",
+                "precio": 11500
+            },
+            {
+                "modelo": "14",
+                "precio": 12000
+            },
+            {
+                "modelo": "15",
+                "precio": 13500
+            }
+        ]
+    }
+}
